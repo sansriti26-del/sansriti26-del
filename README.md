@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Sansriti 👋</h1>
 
-<!--
-**sansriti26-del/sansriti26-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 B.Tech CSE Student | 🌱 Learning Web Dev & DSA | 🎨 Creative Coder
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📍 About Me
+
+- 🎓 I'm a **CSE student**, exploring tech with curiosity  
+- 💻 Currently learning **Web Development** and **DSA (in C++)**  
+- 🌐 Built my first [**portfolio website**](https://github.com/sansriti26-del/my-portfolio) – more to come!  
+- 🌱 Slowly shifting from copy-paste to real understanding  
+- 📚 Love mixing creativity + code  
+
+---
+
+### ⚒️ Tech Stack I'm Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,github,git,vscode" />
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sansriti26-del&show
+
