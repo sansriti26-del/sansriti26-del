@@ -24,8 +24,8 @@
 
 ---
 
-### 📈 GitHub Stats
+<p align="center">
+  Made with ❤️ by Sansriti | 🛠️ Building, Learning, Growing
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sansriti26-del&show
 
